@@ -1,3 +1,9 @@
+# Flix
+
+Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+
+## Flix Part 2
+
 ### User Stories
 
 #### REQUIRED (10pts)
@@ -11,7 +17,8 @@
 ### App Walkthrough GIF
 
 
-<img src="https://i.imgur.com/HqvJMfW.gif" width=250><br>
+
+<img src="https://i.imgur.com/h4IAxEz.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
@@ -40,5 +47,4 @@ Describe any challenges encountered while building the app.
 
 ### Notes
 Describe any challenges encountered while building the app.
-
 
